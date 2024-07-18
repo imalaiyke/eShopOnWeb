@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 4adedcc4-43d6-4d3e-bed5-e41cc9927b1e
-  WEBAPP-NAME: fashion-webapp-demo
+  WEBAPP-NAME: fashiondemo
 
 
 jobs:
